@@ -1,5 +1,5 @@
 Lifetime Power(R) Energy Harvesting Development Kit for Wireless Sensors
-Powercast Corporation
+Powercast Corporation & EMSupply
 
 
 Version	Changes
